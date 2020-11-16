@@ -1,6 +1,6 @@
 # Projeto 2 - Ciência dos Dados
 
-![Capa](Capa_ENEM_2019.jpg)
+![Capa](https://t2.tudocdn.net/523732?w=1200)
 
 **INTRODUÇÃO**
 
