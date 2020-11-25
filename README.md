@@ -14,3 +14,11 @@ Este é um projeto produzido por três alunos de graduação em engenharia, o qu
 - **Seaborn -** Seaborn é uma biblioteca de visualização de dados Python baseada em matplotlib . Ele fornece uma interface de alto nível para desenhar gráficos estatísticos atraentes e informativos.
 - **Matplotlib -** Matplotlib é uma biblioteca abrangente para a criação de visualizações estáticas, animadas e interativas em Python.
 - **Statsmodels -** Statsmodels é uma biblioteca que fornece classes e funções para a estimativa de muitos modelos estatísticos diferentes, bem como para a realização de testes estatísticos e exploração de dados estatísticos. Uma extensa lista de estatísticas de resultados está disponível para cada estimador. Os resultados são testados em relação aos pacotes estatísticos existentes para garantir que estão corretos.
+
+**ARQUIVOS CONTIDOS NO REPOSITÓRIO**
+- **Análise Exploratória e Modelo.ipynb -** Arquivo contendo o relatório final
+- **Legenda das Colunas.xlsx -** Arquivo em excel com o nome de todas as colunas do dataset principal
+- **Criando Dataset Menor.ipynb -** Arquivo que divide o dataset em "chunks" para que não seja necessário abrir todo o dataset que pussui 3.2GB
+- **CE_dados.xlsx -** Dataset com as informações necessárias para a análise exploratória inicial do estado do Ceará
+- **MICRODADOS_ENEM_2019_SAMPLE_ESTUDO.csv -** Dataset para o estudo do modelo
+- **MICRODADOS_ENEM_2019_SAMPLE_TESTE.csv -** Dataset de teste para o nosso modelo
