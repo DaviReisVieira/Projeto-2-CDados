@@ -2,9 +2,15 @@
 
 ![Capa](https://t2.tudocdn.net/523732?w=1200)
 
+**PARTICIPANTES**
+
+- Breno Quessie Barbosa de Lima
+- Davi Reis Vieira de Souza
+- Nicolas Maciel Queiroga
+
 **INTRODUÇÃO**
 
-Este é um projeto produzido por três alunos de graduação em engenharia, o qual busca fazer uma análise exploratória de um dataset com dados do ENEM 2019. Com isso, serão tiradas conclusões a partir dos conhecimentos adquiridos nas análises convenintemente escolhidas.
+Este é um projeto produzido por três alunos do segundo semestre em engenharia no Insper, o qual busca fazer uma análise exploratória de um dataset com dados do ENEM 2019. Com isso, serão tiradas conclusões a partir dos conhecimentos adquiridos nas análises convenintemente escolhidas.
 
 **BIBLIOTECAS UTILIZADAS**
 - **NumPy -** NumPy é um pacote para a linguagem Python que suporta arrays e matrizes multidimensionais, possuindo uma larga coleção de funções matemáticas para trabalhar com estas estruturas.
